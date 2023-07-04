@@ -7,11 +7,9 @@ A banking app ui that primarily uses ActivityIndicator, Modal and a ScrollView
 <br/>
 
 <img src="./Docs/s1.png" alt="s1" width="240"/>
-<img src="./Docs/s2.png" alt="s2" width="245"/>
-<img src="./Docs/s3.png" alt="s3" width="248"/>
 
 <br/>
 Demo: Activity Indicator, Modal and ScrollView
 <br/>
 
-<img src="./Docs/demo.gif" alt="s1" width="200"/>
+<img src="./Docs/demo.gif" alt="s1" width="240"/>
